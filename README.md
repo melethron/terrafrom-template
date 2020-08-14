@@ -15,5 +15,6 @@ vm_template_name = ""
 terraform init
 ```
 3- Запускаем скрипт
-```terraform apply
+```
+terraform apply
 ```
