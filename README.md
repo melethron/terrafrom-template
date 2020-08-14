@@ -11,7 +11,8 @@ vm_network = ""
 vm_template_name = ""
 ```
 2- Инициализируем terraform
-```terraform init
+```
+terraform init
 ```
 3- Запускаем скрипт
 ```terraform apply
